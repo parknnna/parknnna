@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=sumin%20park&fontSize=90&animation=fadeIn&fontAlignY=38&desc=BackendDeveloper&descAlignY=60&descAlign=62)
 
 <div align="center">
-  <h5> 💻 tech stack 💻 </h5>
+  <h3> 💻 tech stack 💻 </h3>
   <img align="right"src="https://github-readme-stats.vercel.app/api/top-langs/?username=parknnna&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact"/>
   <div style="display:flex; align-items:flex-start;justify-content: center;">
     <img src="https://img.shields.io/badge/Java-F7DF1E?style=flat-square&logo=Java&logoColor=black" />
